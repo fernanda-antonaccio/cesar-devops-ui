@@ -1,7 +1,7 @@
 module.exports = {
     ci: {
         collect: {
-            url: ['https://www.businessinsider.com/'],
+            url: ['https://www.cesar.school/'],
             numberOfRuns: 3,
             settings: {
                 onlyCategories: ['accessibility'],
