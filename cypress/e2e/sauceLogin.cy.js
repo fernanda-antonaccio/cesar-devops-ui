@@ -13,5 +13,4 @@ describe('Login no Sauce Labs', () => {
     cy.get('.shopping_cart_link').should('be.visible');
     cy.get('[data-test="add-to-cart-sauce-labs-backpack"]').should('be.visible');
   })
-
 })
